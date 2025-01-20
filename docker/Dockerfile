@@ -1,6 +1,6 @@
-FROM openjdk:8u151-jdk-alpine3.7
+FROM openjdk:21.0.5+11-jdk-alpine3.7
 
-EXPOSE 8070
+EXPOSE 8085
 
 ENV APP_HOME /usr/src/app
 
