@@ -1,4 +1,4 @@
-FROM openjdk:21.0.5+11-jdk-alpine3.7
+FROM openjdk:21-jdk-alpine3.15
 
 EXPOSE 8085
 
